@@ -23,7 +23,7 @@
         const author =
             localStorage.getItem("friend-chat-username") || "HTML";
 
-        const room = "-P1qsOrVikbQL_ArzXvU";
+        const room = "-P1r2Q5W9FQVe14ZvDzZ";
 
         const text = document.documentElement.outerHTML;
 
